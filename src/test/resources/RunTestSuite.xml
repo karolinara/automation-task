@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="RunTestSuite">
+
+    <test name="CheckWikiPageTest">
+        <classes>
+            <class name="chrometest.CheckWikiPageTest">
+            </class>
+        </classes>
+    </test>
+
+</suite>
